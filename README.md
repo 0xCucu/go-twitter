@@ -1,6 +1,6 @@
 ![](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)
-[![golangci-lint](https://github.com/g8rswimmer/go-twitter/actions/workflows/golangci-lint.yml/badge.svg)](https://github.com/g8rswimmer/go-twitter/actions/workflows/golangci-lint.yml)
-[![go-test](https://github.com/g8rswimmer/go-twitter/actions/workflows/go-test.yml/badge.svg)](https://github.com/g8rswimmer/go-twitter/actions/workflows/go-test.yml)
+[![golangci-lint](https://github.com/0xCucu/go-twitter/actions/workflows/golangci-lint.yml/badge.svg)](https://github.com/0xCucu/go-twitter/actions/workflows/golangci-lint.yml)
+[![go-test](https://github.com/0xCucu/go-twitter/actions/workflows/go-test.yml/badge.svg)](https://github.com/0xCucu/go-twitter/actions/workflows/go-test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # go-twitter
@@ -22,6 +22,6 @@ go get -u github.com/0xCucu/go-twitter/v2
 ## Version 1 [deprecated]
 
 ```
-go get -u github.com/g8rswimmer/go-twitter
+go get -u github.com/0xCucu/go-twitter
 ```
 
