@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	twitter "github.com/g8rswimmer/go-twitter/v2"
+	twitter "github.com/0xCucu/go-twitter/v2"
 	"log"
 	"net/http"
 	"os"
@@ -21,9 +21,13 @@ func (a authorize) Add(req *http.Request) {
 	req.Header.Add("Authorization", fmt.Sprintf("Bearer %s", a.Token))
 }
 
-/**
+/*
+*
+
 	In order to run, the user will need to provide the bearer token and a file name to be used as a log.
-**/
+
+*
+*/
 func main() {
 	token := flag.String("token", "", "twitter API token")
 	output := flag.String("output", "", "output")

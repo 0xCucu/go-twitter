@@ -14,7 +14,7 @@ There will be `beta` releases throughout this process and if there are any new f
 This [project](https://github.com/g8rswimmer/go-twitter/projects/1) will track the process of this initial version.
 
 ```
-go get -u github.com/g8rswimmer/go-twitter/v2
+go get -u github.com/0xCucu/go-twitter/v2
 ```
 
 ## Table Of Contents
@@ -267,7 +267,7 @@ import (
 	"context"
 	"strings"
 
-	twitter "github.com/g8rswimmer/go-twitter/v2"
+	twitter "github.com/0xCucu/go-twitter/v2"
 )
 
 type authorize struct {
